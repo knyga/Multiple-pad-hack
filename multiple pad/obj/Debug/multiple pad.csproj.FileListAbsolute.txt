@@ -1,0 +1,6 @@
+c:\users\agnynk\documents\visual studio 2013\Projects\multiple pad\multiple pad\bin\Debug\multiple pad.exe.config
+c:\users\agnynk\documents\visual studio 2013\Projects\multiple pad\multiple pad\bin\Debug\multiple pad.exe
+c:\users\agnynk\documents\visual studio 2013\Projects\multiple pad\multiple pad\bin\Debug\multiple pad.pdb
+c:\users\agnynk\documents\visual studio 2013\Projects\multiple pad\multiple pad\obj\Debug\multiple pad.csprojResolveAssemblyReference.cache
+c:\users\agnynk\documents\visual studio 2013\Projects\multiple pad\multiple pad\obj\Debug\multiple pad.exe
+c:\users\agnynk\documents\visual studio 2013\Projects\multiple pad\multiple pad\obj\Debug\multiple pad.pdb
